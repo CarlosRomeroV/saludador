@@ -8,6 +8,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+
 }
 
 button {
@@ -22,5 +24,13 @@ button {
 button:hover{
     background-color: pink;
     border-color: pink;
+}
+
+footer{
+    align-self: flex-end;
+}
+
+section{
+    flex: 1;
 }
 
