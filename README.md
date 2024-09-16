@@ -15,4 +15,4 @@ saludaXD
 ## Sprint 2
 
    - [ ] Mejorar interfaz gráfica
-   - [ ] Poner confeti
+   - [X] Poner confeti
