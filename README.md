@@ -1,7 +1,12 @@
 # SALUDADOR
 
 ## Descripción
-saludaXD
+Ejercicio de una aplicación web que te saluda por pantalla
+
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
 
 ## Etapas
 
@@ -10,7 +15,7 @@ saludaXD
    - [X] Crear la estructura html
    - [X] Aplicar estilos con css
    - [X] Dotar de comportamiento con Js
-   - [ ] Deploy
+   - [X] Deploy
 
 ## Sprint 2
 
